@@ -4,7 +4,7 @@ pipeline {
     environment {
         DEPLOYMENT_NAME = 'activepeices-portdes-ai'
         DEPLOYMENT_DOMAIN = 'activepieces.portdex.ai'
-        #DEPLOYMENT_PORT = '80'  // Optional
+        // DEPLOYMENT_PORT = '80'  // Optional
     }
 
     stages {
